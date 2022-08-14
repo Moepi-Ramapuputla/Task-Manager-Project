@@ -1,0 +1,6 @@
+admin,Register Users with taskManager.py,Use taskManager.py to add the usernames and passwords for all team members that will be using this program.,10 Oct 2019,20 Oct 2019,No
+admin,Assign initial tasks,Use taskManager.py to assign each team member with appropriate tasks,10 Oct 2019,25 Oct 2019,No
+tommy,Summary Taker,During formal meetings will write a summary of all the important topics and after will post it on the community discord group weekly,2022-04-20,22 Aug 2022,No
+tommy,1,1,1,1,1
+tommy,2,2,2,2,2
+a,a,a,a,a,a
